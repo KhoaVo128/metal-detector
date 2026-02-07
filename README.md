@@ -4,6 +4,9 @@
 **Members:** Eugene Fung, Nicky Xiao, Khoa Vo, Hari Senthil Kumar
 
 ---
+# DEMO
+**https://drive.google.com/file/d/1h_CPobcFERXJNefOxocaJ235m1fbOmeC/view?usp=sharing**
+---
 
 ## Overview
 This project implements a **metal detection and localization system** using induction coils and FPGA-based digital signal processing. Changes in inductance caused by nearby metal objects alter the oscillation characteristics of coil-based oscillators. These changes are measured, processed, and displayed in real time using LEDs and seven-segment displays.
